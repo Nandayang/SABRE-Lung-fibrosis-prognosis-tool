@@ -2,6 +2,6 @@
 
 This is the official repository for the 
 
-"Prognostication in patients with idiopathic pulmonary fibrosis using quantitative airway analysis from HRCT”
+"**Prognostication in patients with idiopathic pulmonary fibrosis using quantitative airway analysis from HRCT**”
 
 The full code will be uploaded after the acceptance of the paper.
