@@ -4,4 +4,4 @@ This is the official repository for the
 
 "**Prognostication in patients with idiopathic pulmonary fibrosis using quantitative airway analysis from HRCT**”
 
-The full code will be uploaded after the acceptance of the paper.
+The executable file and docker will be released soon for easy use :)
