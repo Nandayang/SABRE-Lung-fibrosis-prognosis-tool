@@ -1,15 +1,13 @@
-# Algorithms used in IPF prognosis
+# 🫁 SABRE: Smart Airway Biomarker Recognition Engine
 
-This is the official repository for the "**Prognostication in patients with idiopathic pulmonary fibrosis using quantitative airway analysis from HRCT**”
+This is the official repository for the "**Prognostication in patients with idiopathic pulmonary fibrosis using quantitative airway analysis from HRCT**”. SABRE is the **first interpretable, fully automated** airway volume quantification tool tailored for idiopathic pulmonary fibrosis (IPF).  
+It provides robust prognostic markers, improves early progression detection, and generalizes across fibrosing ILDs.  
 
 If you find this work useful in your research, please cite:  
 
 Nan Y, Federico F.N., Humphries S., *et al.* Prognostication in patients with idiopathic pulmonary fibrosis using quantitative airway analysis from HRCT: a retrospective study. **European Respiratory Journal.** 2025; 0: 2500981. DOI: [10.1183/13993003.00981-2025](https://doi.org/10.1183/13993003.00981-2025)  
 
-# 🫁 SABRE: Smart Airway Biomarker Recognition Engine
 
-SABRE is the **first interpretable, fully automated** airway volume quantification tool tailored for idiopathic pulmonary fibrosis (IPF).  
-It provides robust prognostic markers, improves early progression detection, and generalizes across fibrosing ILDs.  
 
 ---
 
