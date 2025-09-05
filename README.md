@@ -43,4 +43,41 @@ Validated not only in **IPF cohorts**, but also in **other progressive fibrosing
 
 ---
 
-The executable file and docker will be released soon for easy use :)
+## 📋 User Guide
+### 📁 Input Data Structure
+
+SABRE supports two input formats for HRCT data:
+
+#### Option 1: NIfTI Format
+```
+root_directory/
+├── patient001.nii.gz
+├── patient002.nii.gz
+├── patient003.nii
+└── patient004.nii.gz
+```
+
+#### Option 2: DICOM Format
+```
+root_directory/
+├── case1_dir/
+│   ├── CT_001.dcm
+│   ├── CT_002.dcm
+│   ├── CT_003.dcm
+│   └── ...
+├── case2_dir/
+│   ├── scan_001.dcm
+│   ├── scan_002.dcm
+│   └── ...
+└── case3_dir/
+    ├── image_001.dcm
+    ├── image_002.dcm
+    └── ...
+```
+### 🚀 Usage
+![SABRE Application](figs/appv1.png) 
+
+1. Install the requirements 
+2. run app_packed.py 
+3. Select data and output paths
+
