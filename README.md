@@ -76,8 +76,8 @@ root_directory/
 ```
 ### 🚀 Usage
 ![SABRE Application](figs/appv1.png) 
-
-1. Install the requirements 
-2. run app_packed.py 
-3. Select data and output paths
+1. Download the model weights from https://drive.google.com/file/d/1F7rTbX6MimAzbz2eMhnEE9f6GW7zHor7/view?usp=sharing, https://drive.google.com/file/d/1v-zjlJvEtvOpQ8NGVHkpcm3v17QlMwWx/view?usp=sharing and put them in the models folder 
+2. Install the requirements 
+3. run app_packed.py 
+4. Select data and output paths
 
