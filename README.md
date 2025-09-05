@@ -38,7 +38,8 @@ Validated not only in **IPF cohorts**, but also in **other progressive fibrosing
 2️⃣ **Robust Validation** – Demonstrated generalizability across **1,284 HRCTs** from two independent cohorts.  
 3️⃣ **Prognostic Gain** – Combined with DLCO%, SABRE boosts:  
    - **1-year AUC = 0.852**  
-   - **C-index = 0.752**  
+   - **C-index = 0.752**
+
 4️⃣ **Open Science** – All model weights, preprocessing pipelines, and statistical analysis scripts will be publicly available.  
 
 ---
